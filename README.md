@@ -105,3 +105,32 @@ Forces the player to focus on certain points of the level. Forcing the player to
 
 
 <img width="1165" height="566" alt="image" src="https://github.com/user-attachments/assets/b6a7a7fa-155a-46bf-86d2-92fd47c5b5d5" />
+
+
+<img width="1093" height="615" alt="image" src="https://github.com/user-attachments/assets/2626a63c-f474-4f53-ad0c-9710b1c728c0" />
+
+
+<img width="1174" height="577" alt="image" src="https://github.com/user-attachments/assets/98110921-15f7-41c1-a159-0c75f7ff268f" />
+
+
+<img width="1036" height="608" alt="image" src="https://github.com/user-attachments/assets/97513c23-912e-4501-9bea-6dd0ef6e746d" />
+
+
+<img width="1187" height="578" alt="image" src="https://github.com/user-attachments/assets/f655d043-c077-45a7-b6aa-06f2952718fa" />
+
+
+<img width="1211" height="583" alt="image" src="https://github.com/user-attachments/assets/a650da60-4209-4684-8295-e8b27cd6ff5a" />
+
+
+<img width="1071" height="635" alt="image" src="https://github.com/user-attachments/assets/1c8a6312-08c2-4685-8859-c2329ce5ebd5" />
+
+
+Opportunity for a narrative exploration by adding side track and backtrack level design.
+
+
+<img width="904" height="600" alt="image" src="https://github.com/user-attachments/assets/7fd149f1-f892-416f-8bad-f91f4e685591" />
+
+
+<img width="993" height="609" alt="image" src="https://github.com/user-attachments/assets/46dc1357-3003-4af9-8295-e19c95de08e3" />
+
+
