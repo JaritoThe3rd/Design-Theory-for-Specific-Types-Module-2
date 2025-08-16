@@ -303,3 +303,28 @@ Perhaps the atmosphere and color of the environment will make the vista more apo
 
 
 <img width="1664" height="505" alt="image" src="https://github.com/user-attachments/assets/bcaa626d-e6cb-441b-9367-5b1512c93ecc" />
+
+
+<img width="1212" height="617" alt="image" src="https://github.com/user-attachments/assets/e0b0b93e-4cf2-49b7-8139-d3504bcb656f" />
+
+
+<img width="1215" height="590" alt="image" src="https://github.com/user-attachments/assets/c198d2a9-a056-4035-a5f2-eb8bbbe44b8d" />
+
+
+<img width="1207" height="581" alt="image" src="https://github.com/user-attachments/assets/9a1448d6-a17d-466f-abbf-c31f6b82d138" />
+
+
+<img width="1246" height="570" alt="image" src="https://github.com/user-attachments/assets/d37e2f24-4270-452b-95ee-69fe68c6af3a" />
+
+Max walk speed modification.
+
+
+<img width="1186" height="568" alt="image" src="https://github.com/user-attachments/assets/80f5deb1-e81a-49b1-b97d-67d2446bd9f7" />
+
+
+<img width="1259" height="388" alt="image" src="https://github.com/user-attachments/assets/10ac7582-3ef8-4937-9d8c-20dff2b0657f" />
+
+
+<img width="1253" height="567" alt="image" src="https://github.com/user-attachments/assets/df172c21-8804-4ec4-b16a-16c0766a7ea1" />
+
+
