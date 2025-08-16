@@ -149,3 +149,65 @@ Opportunity for a narrative exploration by adding side track and backtrack level
 <img width="964" height="615" alt="image" src="https://github.com/user-attachments/assets/4706d648-3853-47ee-a088-963893f7d4e0" />
 
 
+<img width="1190" height="626" alt="image" src="https://github.com/user-attachments/assets/e7f19d4e-e190-4426-9c6d-bdaa527afc76" />
+
+
+Obstructing or delay the player's progress and how their experience will be smooth or rough.
+
+<img width="1037" height="538" alt="image" src="https://github.com/user-attachments/assets/653cf787-9bee-4400-9bd4-765e0e436ebf" />
+
+
+<img width="1076" height="572" alt="image" src="https://github.com/user-attachments/assets/98d4a3e0-a09a-4c31-b930-9082eea14a6c" />
+
+
+Making sure the player looks around the environment as much as possible.
+
+
+<img width="1053" height="532" alt="image" src="https://github.com/user-attachments/assets/95106cef-9dfe-4da1-b25f-5ab9b9b93db8" />
+
+
+Player's skill will affect the progression of the player.
+
+
+<img width="1028" height="514" alt="image" src="https://github.com/user-attachments/assets/260aaf00-cfd6-4d19-b87e-31bf753db665" />
+
+
+Ability that the character has and not the players' skill. Like being able to do a double jump to reach a cliff.
+
+
+<img width="1041" height="545" alt="image" src="https://github.com/user-attachments/assets/9c94f811-45a4-4d7b-afe3-e1c1475c456d" />
+
+
+<img width="1066" height="527" alt="image" src="https://github.com/user-attachments/assets/376a3f3e-4f92-409d-9b0c-627e9e0b245c" />
+
+
+Diegetic knowledge within the game like a code lock for the safe and non-diegetic is the players' knowledge.
+
+
+<img width="1117" height="529" alt="image" src="https://github.com/user-attachments/assets/9a8084f5-2a78-4789-aece-9f87e58aeb9c" />
+
+
+Cutscenes and dialogues.
+
+
+<img width="1076" height="580" alt="image" src="https://github.com/user-attachments/assets/cac28b7a-9d6a-4a38-bf66-a7473ad729f0" />
+
+
+Waiting for a certain amount of time to progress through a level. Diegetic time would be full-moon ingame and non-diegetic time would be september 21 in game days.
+
+
+<img width="1043" height="575" alt="image" src="https://github.com/user-attachments/assets/9b728981-6644-42be-ac1b-c12f81f931b4" />
+
+
+<img width="1069" height="578" alt="image" src="https://github.com/user-attachments/assets/f02a8096-80e9-4028-a189-f5f10c73ba28" />
+
+
+<img width="1043" height="503" alt="image" src="https://github.com/user-attachments/assets/357bba81-74c5-4091-9a53-0271b363448d" />
+
+
+<img width="1169" height="556" alt="image" src="https://github.com/user-attachments/assets/d6255616-92f0-48e5-a117-d54a0b56605d" />
+
+
+<img width="895" height="477" alt="image" src="https://github.com/user-attachments/assets/7ebb7379-05bd-4ddd-8ca3-eb4de35a69d7" />
+
+
