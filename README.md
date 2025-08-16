@@ -328,3 +328,18 @@ Max walk speed modification.
 <img width="1253" height="567" alt="image" src="https://github.com/user-attachments/assets/df172c21-8804-4ec4-b16a-16c0766a7ea1" />
 
 
+<img width="1155" height="590" alt="image" src="https://github.com/user-attachments/assets/d4dbd32a-dbd5-41dd-b699-82a260ffafa9" />
+
+
+<img width="1198" height="696" alt="image" src="https://github.com/user-attachments/assets/8f141bf8-1af7-4093-ae2d-377c316745a6" />
+
+
+Green circle elevation area for the player to see the goal and sidetrack areas of the level.
+
+
+<img width="1269" height="621" alt="image" src="https://github.com/user-attachments/assets/40ace861-e20a-4b61-80c0-19cbc809198c" />
+
+
+<img width="1064" height="615" alt="image" src="https://github.com/user-attachments/assets/04c9c9a7-a354-4c47-874b-d497f306172f" />
+
+
