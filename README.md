@@ -393,3 +393,9 @@ Implicit signage could be the changes of a biome
 <img width="1669" height="991" alt="image" src="https://github.com/user-attachments/assets/ffb3cdbe-679d-4f21-8ca5-7c7fe562d9e7" />
 <img width="1645" height="1063" alt="image" src="https://github.com/user-attachments/assets/ffdb7eff-91fe-477c-969a-11e1223f7b5c" />
 <img width="1667" height="504" alt="image" src="https://github.com/user-attachments/assets/5570910f-ad43-4a44-ade8-975ccb19d5bf" />
+
+
+<img width="1062" height="998" alt="image" src="https://github.com/user-attachments/assets/108cfad6-3117-4010-af5d-a52ec08dd78f" />
+
+
+<img width="810" height="455" alt="image" src="https://github.com/user-attachments/assets/2644bfca-9eda-4eaa-ae5b-36f599045886" />
