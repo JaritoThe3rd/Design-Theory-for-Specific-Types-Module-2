@@ -71,3 +71,37 @@ What do we need to know about the player experience so far? What comes next?
 
 Player will experience actual fear from the environment since permadeath is a system for your main character and other survivors.
 
+
+<img width="1095" height="609" alt="image" src="https://github.com/user-attachments/assets/0ba2c32e-eebc-4b14-bf4f-a8f363d66fa1" />
+
+
+<img width="1266" height="613" alt="image" src="https://github.com/user-attachments/assets/6827c860-8511-43f8-ae32-a62160d82dac" />
+
+
+<img width="1274" height="619" alt="image" src="https://github.com/user-attachments/assets/a4c4c205-e53e-4a90-a97c-be25cbfec140" />
+
+
+<img width="1218" height="520" alt="image" src="https://github.com/user-attachments/assets/b5579ef0-7492-4cc6-b05f-9b7a959200f2" />
+
+
+<img width="1230" height="557" alt="image" src="https://github.com/user-attachments/assets/4a488257-2fe9-4d59-94dc-20fb7e39b7ea" />
+
+
+<img width="1151" height="638" alt="image" src="https://github.com/user-attachments/assets/3e4d3f17-adc5-4366-b7d1-24ccc68f2a0b" />
+
+
+<img width="1183" height="579" alt="image" src="https://github.com/user-attachments/assets/687af255-a961-4cec-99d6-5f6c07523f8c" />
+
+
+<img width="1146" height="593" alt="image" src="https://github.com/user-attachments/assets/202ac9bd-992b-4228-8b1a-8ac75f5bc37f" />
+
+
+<img width="1199" height="543" alt="image" src="https://github.com/user-attachments/assets/141aaa02-c7b1-4277-850a-1c858b0c62dd" />
+
+
+Basic pathing
+
+Forces the player to focus on certain points of the level. Forcing the player to a particular place or let them decide on their own.
+
+
+<img width="1165" height="566" alt="image" src="https://github.com/user-attachments/assets/b6a7a7fa-155a-46bf-86d2-92fd47c5b5d5" />
