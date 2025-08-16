@@ -262,3 +262,19 @@ By exploring around the hospital.
 What formal qualities can we give to the vista? How can we use color, tone, form, and composition to make the view appealing.
 Perhaps the atmosphere and color of the environment will make the vista more apocalyptic.
 
+
+<img width="1180" height="610" alt="image" src="https://github.com/user-attachments/assets/839100c8-68cb-40d0-a190-fc98cec28edc" />
+
+
+<img width="1664" height="861" alt="image" src="https://github.com/user-attachments/assets/cdbfc029-34c7-43e5-a82b-fde667638316" />
+
+
+<img width="1665" height="564" alt="image" src="https://github.com/user-attachments/assets/5b9e82a6-0c18-48d9-bb25-4b87c1371e63" />
+
+
+<img width="1676" height="618" alt="image" src="https://github.com/user-attachments/assets/24e9ba82-4d98-4b2e-9550-9e429feaedca" />
+
+
+<img width="1667" height="511" alt="image" src="https://github.com/user-attachments/assets/1adca5b6-5806-4f87-9b0d-057680f38082" />
+
+
