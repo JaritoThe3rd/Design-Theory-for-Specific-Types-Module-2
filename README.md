@@ -211,3 +211,33 @@ Waiting for a certain amount of time to progress through a level. Diegetic time 
 <img width="895" height="477" alt="image" src="https://github.com/user-attachments/assets/7ebb7379-05bd-4ddd-8ca3-eb4de35a69d7" />
 
 
+<img width="1016" height="593" alt="image" src="https://github.com/user-attachments/assets/d02c4455-1c67-4f4d-8249-e0131a3646c3" />
+
+
+<img width="1016" height="496" alt="image" src="https://github.com/user-attachments/assets/b7153da4-033b-45a0-b747-7d94307f5433" />
+
+
+<img width="1158" height="629" alt="image" src="https://github.com/user-attachments/assets/334e0134-aff3-43cd-98e6-2f2557c45551" />
+
+
+intended path for the player to take and the minimum requirement to progress throught the game.
+
+
+<img width="1183" height="572" alt="image" src="https://github.com/user-attachments/assets/c57b7e12-9f97-4760-9cac-4c1da215d781" />
+
+
+<img width="949" height="431" alt="image" src="https://github.com/user-attachments/assets/ceb926d1-84e1-4450-8bc1-08ddbcec0ecc" />
+
+
+<img width="1098" height="598" alt="image" src="https://github.com/user-attachments/assets/e6099c3d-c60d-4021-9949-72e001fbd5d0" />
+
+
+<img width="1182" height="584" alt="image" src="https://github.com/user-attachments/assets/9f3cf45c-7909-4811-bc66-0d371239d155" />
+
+
+<img width="1207" height="632" alt="image" src="https://github.com/user-attachments/assets/d5d4c165-77bc-45ec-8de9-d4b64b75cfa7" />
+
+
+<img width="1261" height="456" alt="image" src="https://github.com/user-attachments/assets/83608759-f4ff-493f-b41e-9e0e96d701a8" />
+
+
