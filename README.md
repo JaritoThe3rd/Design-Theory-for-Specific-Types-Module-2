@@ -343,3 +343,53 @@ Green circle elevation area for the player to see the goal and sidetrack areas o
 <img width="1064" height="615" alt="image" src="https://github.com/user-attachments/assets/04c9c9a7-a354-4c47-874b-d497f306172f" />
 
 
+<img width="1097" height="613" alt="image" src="https://github.com/user-attachments/assets/1f6be9ed-2320-454e-a795-d515a04230f9" />
+
+
+Telling the player where they can go or where they wanted to go.
+
+
+<img width="1111" height="606" alt="image" src="https://github.com/user-attachments/assets/c80eaec9-18f0-42ed-915b-afda4908c261" />
+
+In mirror's edge they used colored obstacles to tell the player where you can go.
+
+
+<img width="1169" height="452" alt="image" src="https://github.com/user-attachments/assets/5453b44b-c737-4f6f-a743-25fbd0f8b4ce" />
+
+
+
+<img width="1120" height="622" alt="image" src="https://github.com/user-attachments/assets/1386bf23-706e-4eb8-9982-5be631635ce7" />
+
+
+Diegetic Wayfinding can be road signs or billboards.
+
+
+<img width="1147" height="637" alt="image" src="https://github.com/user-attachments/assets/23df9794-27e9-4d9c-9bd2-7eb538b1cd56" />
+
+
+Non-diegetic wayfinding could be a UI floating in front of the players' screen telling the players' waypoint.
+
+
+<img width="1174" height="621" alt="image" src="https://github.com/user-attachments/assets/97a6482b-73c9-42d6-a5e4-d55086c84a7f" />
+
+
+Explicit signage where it is clear and an actual language that you can read.
+
+
+<img width="1072" height="628" alt="image" src="https://github.com/user-attachments/assets/dc6c23eb-0f78-49be-83d5-69bf895b8220" />
+
+
+Implicit signage could be the changes of a biome
+
+
+<img width="1666" height="555" alt="image" src="https://github.com/user-attachments/assets/b4ac1bcb-ad43-4e98-961d-9960c2f4e171" />
+<img width="1677" height="598" alt="image" src="https://github.com/user-attachments/assets/f86901b4-862e-4413-8e8f-ff29ea2d5f71" />
+<img width="1671" height="521" alt="image" src="https://github.com/user-attachments/assets/25e47e5b-e110-45a0-ada0-1d5361d8d1eb" />
+<img width="1577" height="547" alt="image" src="https://github.com/user-attachments/assets/f5cf434d-7a2f-4e65-a89c-b7bc59e345aa" />
+<img width="1685" height="1011" alt="image" src="https://github.com/user-attachments/assets/7557f6a2-fdff-411c-b53d-a8c5d8376d35" />
+<img width="1642" height="1073" alt="image" src="https://github.com/user-attachments/assets/c8482461-bea9-4c3d-88b3-cb80654bc8a4" />
+<img width="1583" height="1127" alt="image" src="https://github.com/user-attachments/assets/2c639e2a-5664-43a2-a91b-2035cddc2828" />
+<img width="1673" height="902" alt="image" src="https://github.com/user-attachments/assets/0abdb642-29fd-4d5d-82ae-508a6805311f" />
+<img width="1669" height="991" alt="image" src="https://github.com/user-attachments/assets/ffb3cdbe-679d-4f21-8ca5-7c7fe562d9e7" />
+<img width="1645" height="1063" alt="image" src="https://github.com/user-attachments/assets/ffdb7eff-91fe-477c-969a-11e1223f7b5c" />
+<img width="1667" height="504" alt="image" src="https://github.com/user-attachments/assets/5570910f-ad43-4a44-ade8-975ccb19d5bf" />
