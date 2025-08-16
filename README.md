@@ -241,3 +241,24 @@ intended path for the player to take and the minimum requirement to progress thr
 <img width="1261" height="456" alt="image" src="https://github.com/user-attachments/assets/83608759-f4ff-493f-b41e-9e0e96d701a8" />
 
 
+<img width="1179" height="590" alt="image" src="https://github.com/user-attachments/assets/1b7dd4fe-a24c-41d0-9eed-0638b243b383" />
+
+
+<img width="1257" height="552" alt="image" src="https://github.com/user-attachments/assets/1ae7eb96-a7dc-46af-aa05-b52ce8151d9a" />
+
+
+Vistas
+
+What do we want them to see?
+Chaos and helplessnes around the hospital where the player needs to help the community and survivors that are lost and hopelessly trying to escape.
+
+
+What information do we want to give with this viewpoint?
+That the player needs to survive and help out the people in need.
+
+How can we get the player into the correct position for the vista?
+By exploring around the hospital.
+
+What formal qualities can we give to the vista? How can we use color, tone, form, and composition to make the view appealing.
+Perhaps the atmosphere and color of the environment will make the vista more apocalyptic.
+
