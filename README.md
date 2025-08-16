@@ -69,3 +69,5 @@ How does this level fit in the sequence of levels?
 What do we need to know about the player experience so far? What comes next?
 
 
+Player will experience actual fear from the environment since permadeath is a system for your main character and other survivors.
+
