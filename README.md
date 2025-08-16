@@ -134,3 +134,18 @@ Opportunity for a narrative exploration by adding side track and backtrack level
 <img width="993" height="609" alt="image" src="https://github.com/user-attachments/assets/46dc1357-3003-4af9-8295-e19c95de08e3" />
 
 
+<img width="1221" height="525" alt="image" src="https://github.com/user-attachments/assets/c4a92965-6f4e-45d1-b39b-f09e083ff191" />
+
+
+<img width="1385" height="643" alt="image" src="https://github.com/user-attachments/assets/f2631247-f164-44cf-9155-6bad00e01bd6" />
+
+
+<img width="1141" height="584" alt="image" src="https://github.com/user-attachments/assets/52ceb042-f78e-48a9-ba08-1bc417e5dc1f" />
+
+
+<img width="1190" height="575" alt="image" src="https://github.com/user-attachments/assets/326b885a-060a-4afb-abbd-6f5999f973c3" />
+
+
+<img width="964" height="615" alt="image" src="https://github.com/user-attachments/assets/4706d648-3853-47ee-a088-963893f7d4e0" />
+
+
